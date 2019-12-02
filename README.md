@@ -1,1 +1,4 @@
-# I have created this repository to teach very basic python and bqplot/ipywidgets
+# python101
+- python for financial analysis in 30 minutes
+- how to create a lineplot with bqplot
+- how to make a simple application
