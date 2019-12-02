@@ -13,8 +13,4 @@ dependencies:
   - dask
   - bqplot
   - ipywidgets
-  - pip
-  - pip:
-    - sklearn
-    - scipy
-    - statsmodel
+  - scikit-learn
